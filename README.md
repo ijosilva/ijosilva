@@ -1,8 +1,8 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  README DE PERFIL — TEMA: NEURAL INTERFACE / CYBERPUNK                        ║
-║  Substitua TODOS os campos em MAIÚSCULAS (SEU-USUARIO, SEU-NOME, etc.)        ║
+║  PERFIL: @ijosilva — TEMA: NEURAL INTERFACE / CYBERPUNK                       ║
 ║  Paleta: #00F0FF (ciano) · #FF2E63 (magenta) · #7B2CBF (roxo) · #0D1117 (bg)  ║
+║  100% serviços hospedados — nenhum GitHub Actions necessário.                 ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2CBF,100:FF2E63&height=230&section=header&text=SEU%20NOME&fontSize=68&fontColor=FFFFFF&fontAlignY=32&desc=%E2%9A%A1%20SYSTEM%20ONLINE%20%E2%80%A2%20BOOT%20SEQUENCE%20COMPLETE%20%E2%9A%A1&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2CBF,100:FF2E63&height=230&section=header&text=ITALO%20JEZO&fontSize=66&fontColor=FFFFFF&fontAlignY=32&desc=%E2%9A%A1%20SYSTEM%20ONLINE%20%E2%80%A2%20BOOT%20SEQUENCE%20COMPLETE%20%E2%9A%A1&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="banner" />
 
 </div>
 
@@ -20,8 +20,8 @@
 @@ NEURAL INTERFACE v4.2.6 — INICIALIZANDO ... @@
 
 + [ OK ]  Kernel carregado ......................... 100%
++ [ OK ]  Usuário autenticado ...................... ijosilva
 + [ OK ]  Módulo de desenvolvimento ................ ATIVO
-+ [ OK ]  Stack de automação ....................... MONTADA
 + [ OK ]  Conexão com repositórios ................. ESTÁVEL
 ! [WARN]  Nível de cafeína ........................ CRÍTICO
 - [FAIL]  Módulo de sono .......................... NÃO ENCONTRADO
@@ -33,12 +33,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=00F0FF&center=true&vCenter=true&width=820&height=80&lines=%3E+Inicializando+interface+neural...;%3E+Desenvolvedor+%7C+Automa%C3%A7%C3%A3o+%7C+IoT;%3E+Transformando+ideias+em+c%C3%B3digo;%3E+Bem-vindo+ao+meu+perfil+_" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=00F0FF&center=true&vCenter=true&width=820&height=80&lines=%3E+Inicializando+interface+neural...;%3E+Italo+Jezo+de+Oliveira+Silva;%3E+Desenvolvedor+%7C+Automa%C3%A7%C3%A3o+%7C+IoT;%3E+Bem-vindo+ao+meu+perfil+_" alt="typing" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=VISITANTES&color=00F0FF&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/SEU-USUARIO?label=SEGUIDORES&style=for-the-badge&color=FF2E63&labelColor=0D1117" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=ijosilva&label=VISITANTES&color=00F0FF&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/ijosilva?label=SEGUIDORES&style=for-the-badge&color=FF2E63&labelColor=0D1117" alt="followers" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0D1117" alt="status" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2CBF,100:FF2E63&height=3&section=header" width="100%" alt="divisor" />
@@ -57,6 +57,7 @@
 
 <b><code>&gt;</code> Quem está do outro lado do terminal</b>
 
+<!-- ▼ EDITE OS TÓPICOS ABAIXO COM O SEU PERFIL REAL ▼ -->
 <ul>
   <li>🧠 Construo <b>sistemas que resolvem problemas reais</b> — automações, integrações e ferramentas internas.</li>
   <li>⚙️ Foco em <b>backend, automação de processos e eletrônica embarcada</b>.</li>
@@ -65,6 +66,7 @@
   <li>🤝 Aberto a colaborações em <b>open source</b> e projetos de automação.</li>
   <li>📬 Fale comigo: <b>italojezo5@gmail.com</b></li>
 </ul>
+<!-- ▲ EDITE OS TÓPICOS ACIMA ▲ -->
 
 <br>
 
@@ -72,7 +74,7 @@
 <td width="42%" valign="top">
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_title=true&hide=issues&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=C9D1D9&icon_color=FF2E63&title_color=00F0FF&border_color=00F0FF&border_radius=12&rank_icon=github" width="100%" alt="card" />
+<img src="https://github-readme-stats.vercel.app/api?username=ijosilva&show_icons=true&hide_title=true&hide=issues&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=C9D1D9&icon_color=FF2E63&title_color=00F0FF&border_color=00F0FF&border_radius=12&rank_icon=github" width="100%" alt="card" />
 </div>
 
 </td>
@@ -82,6 +84,8 @@
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->
 
 ## <img src="https://img.shields.io/badge/02-FF2E63?style=flat-square&labelColor=0D1117" /> `TECH_STACK.sys`
+
+<!-- Para trocar os ícones, edite a lista após "i=" — catálogo em skillicons.dev -->
 
 <div align="center">
 
@@ -134,7 +138,7 @@
 
 <b>🔧 WORKFLOW</b><br><br>
 <img src="https://img.shields.io/badge/GIT-0D1117?style=flat-square&logo=git&logoColor=FF2E63" /><br>
-<img src="https://img.shields.io/badge/GITHUB_ACTIONS-0D1117?style=flat-square&logo=githubactions&logoColor=FF2E63" /><br>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=FF2E63" /><br>
 <img src="https://img.shields.io/badge/POSTMAN-0D1117?style=flat-square&logo=postman&logoColor=FF2E63" /><br>
 <img src="https://img.shields.io/badge/NOTION-0D1117?style=flat-square&logo=notion&logoColor=FF2E63" />
 
@@ -158,36 +162,26 @@
 ## <img src="https://img.shields.io/badge/04-00F0FF?style=flat-square&labelColor=0D1117" /> `PROJETOS.db`
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/ijosilva/REPO-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPO-1&bg_color=0D1117&text_color=C9D1D9&icon_color=00F0FF&title_color=00F0FF&border_color=00F0FF&border_radius=12" width="100%" alt="projeto 1" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/SEU-USUARIO/REPO-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPO-2&bg_color=0D1117&text_color=C9D1D9&icon_color=FF2E63&title_color=FF2E63&border_color=FF2E63&border_radius=12" width="100%" alt="projeto 2" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/SEU-USUARIO/REPO-3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPO-3&bg_color=0D1117&text_color=C9D1D9&icon_color=7B2CBF&title_color=7B2CBF&border_color=7B2CBF&border_radius=12" width="100%" alt="projeto 3" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/SEU-USUARIO/REPO-4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPO-4&bg_color=0D1117&text_color=C9D1D9&icon_color=00F0FF&title_color=00F0FF&border_color=00F0FF&border_radius=12" width="100%" alt="projeto 4" />
-</a>
-</td>
-</tr>
-</table>
 
-<br>
+<a href="https://github.com/ijosilva/saulon">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ijosilva&repo=saulon&bg_color=0D1117&text_color=C9D1D9&icon_color=00F0FF&title_color=00F0FF&border_color=00F0FF&border_radius=12" width="52%" alt="saulon" />
+</a>
 
-<a href="https://github.com/SEU-USUARIO?tab=repositories">
+<!--
+▼ QUANDO CRIAR NOVOS REPOSITÓRIOS, DESCOMENTE E TROQUE "NOME-DO-REPO" ▼
+
+<a href="https://github.com/ijosilva/NOME-DO-REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ijosilva&repo=NOME-DO-REPO&bg_color=0D1117&text_color=C9D1D9&icon_color=FF2E63&title_color=FF2E63&border_color=FF2E63&border_radius=12" width="52%" alt="projeto" />
+</a>
+
+<a href="https://github.com/ijosilva/NOME-DO-REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ijosilva&repo=NOME-DO-REPO&bg_color=0D1117&text_color=C9D1D9&icon_color=7B2CBF&title_color=7B2CBF&border_color=7B2CBF&border_radius=12" width="52%" alt="projeto" />
+</a>
+-->
+
+<br><br>
+
+<a href="https://github.com/ijosilva?tab=repositories">
 <img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSIT%C3%93RIOS-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="todos os repos" />
 </a>
 
@@ -197,8 +191,10 @@
 
 ## <img src="https://img.shields.io/badge/05-FF2E63?style=flat-square&labelColor=0D1117" /> `OBJETIVOS.sh`
 
+<!-- Troque os objetivos e as barras (█ = preenchido, ░ = vazio, 16 blocos no total) -->
+
 ```bash
-┌──(seu-usuario㉿neural-interface)-[~/roadmap/2026]
+┌──(ijosilva㉿neural-interface)-[~/roadmap/2026]
 └─$ ./status --verbose
 
   ╔════════════════════════════════════════════════════════════════════╗
@@ -221,16 +217,37 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=C9D1D9&icon_color=FF2E63&title_color=00F0FF&border_color=00F0FF&border_radius=12&rank_icon=percentile" height="180" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&bg_color=0D1117&text_color=C9D1D9&title_color=00F0FF&border_color=00F0FF&border_radius=12" height="180" alt="linguagens" />
+<img src="https://github-readme-stats.vercel.app/api?username=ijosilva&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=C9D1D9&icon_color=FF2E63&title_color=00F0FF&border_color=00F0FF&border_radius=12&rank_icon=percentile" height="180" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijosilva&layout=compact&langs_count=8&bg_color=0D1117&text_color=C9D1D9&title_color=00F0FF&border_color=00F0FF&border_radius=12" height="180" alt="linguagens" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&background=0D1117&ring=00F0FF&fire=FF2E63&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF&stroke=00F0FF&border=00F0FF&border_radius=12&locale=pt_BR" width="70%" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=ijosilva&background=0D1117&ring=00F0FF&fire=FF2E63&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF&stroke=00F0FF&border=00F0FF&border_radius=12&locale=pt_BR" width="70%" alt="streak" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0D1117&color=00F0FF&line=FF2E63&point=FFFFFF&area=true&area_color=7B2CBF&title_color=00F0FF&hide_border=true&custom_title=GR%C3%81FICO%20DE%20ATIVIDADE" width="100%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ijosilva&bg_color=0D1117&color=00F0FF&line=FF2E63&point=FFFFFF&area=true&area_color=7B2CBF&title_color=00F0FF&hide_border=true&custom_title=GR%C3%81FICO%20DE%20ATIVIDADE" width="100%" alt="activity graph" />
+
+<br><br>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ijosilva&theme=github_dark" width="100%" alt="repos por linguagem" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ijosilva&theme=github_dark" width="100%" alt="commits por linguagem" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ijosilva&theme=github_dark" width="100%" alt="resumo" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ijosilva&theme=github_dark&utcOffset=-3" width="100%" alt="horário produtivo" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -240,46 +257,35 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="troféus" />
+<img src="https://github-profile-trophy.vercel.app/?username=ijosilva&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="troféus" />
 
 </div>
 
 <!-- ══════════════════════ SNAKE ══════════════════════ -->
 
-## <img src="https://img.shields.io/badge/08-FF2E63?style=flat-square&labelColor=0D1117" /> `CONTRIBUTION_SNAKE.gif`
+## <img src="https://img.shields.io/badge/08-7B2CBF?style=flat-square&labelColor=0D1117" /> `CONTRIBUTION_SNAKE.svg`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg" width="100%" alt="snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ijosilva/ijosilva/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ijosilva/ijosilva/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/ijosilva/ijosilva/output/snake.svg" width="100%" alt="snake" />
 </picture>
-
-<sub><code>// requer o workflow snake.yml em .github/workflows/</code></sub>
 
 </div>
 
-<!-- ══════════════════════ REDES SOCIAIS ══════════════════════ -->
+<!-- ══════════════════════ CONTATO ══════════════════════ -->
 
-## <img src="https://img.shields.io/badge/09-7B2CBF?style=flat-square&labelColor=0D1117" /> `CONEXOES.net`
+## <img src="https://img.shields.io/badge/09-FF2E63?style=flat-square&labelColor=0D1117" /> `CONEXOES.net`
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU-PERFIL">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="linkedin" />
+<a href="mailto:italojezo5@gmail.com">
+<img src="https://img.shields.io/badge/italojezo5%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E63" alt="email" />
 </a>
-<a href="mailto:SEU@EMAIL.COM">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E63" alt="email" />
-</a>
-<a href="https://instagram.com/SEU-PERFIL">
-<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=7B2CBF" alt="instagram" />
-</a>
-<a href="https://discord.com/users/SEU-ID">
-<img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=00F0FF" alt="discord" />
-</a>
-<a href="https://SEU-SITE.COM">
-<img src="https://img.shields.io/badge/WEBSITE-0D1117?style=for-the-badge&logo=googlechrome&logoColor=FF2E63" alt="site" />
+<a href="https://github.com/ijosilva">
+<img src="https://img.shields.io/badge/%40ijosilva-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="github" />
 </a>
 
 </div>
