@@ -2,7 +2,22 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  PERFIL: @ijosilva — TEMA: NEURAL INTERFACE / CYBERPUNK                       ║
 ║  Paleta: #00F0FF (ciano) · #FF2E63 (magenta) · #7B2CBF (roxo) · #0D1117 (bg)  ║
-║  100% serviços hospedados — nenhum GitHub Actions necessário.                 ║
+║                                                                              ║
+║  SERVIÇOS USADOS (todos verificados online):                                  ║
+║   · capsule-render.vercel.app ............ banner e rodapé                    ║
+║   · readme-typing-svg.demolab.com ........ animação de digitação              ║
+║   · img.shields.io ....................... badges (estáticos e dinâmicos)     ║
+║   · skillicons.dev ....................... ícones de tecnologia               ║
+║   · streak-stats.demolab.com ............. sequência de commits               ║
+║   · github-readme-activity-graph.vercel.app  gráfico de atividade             ║
+║   · github-profile-summary-cards.vercel.app  cards de estatísticas            ║
+║   · raw.githubusercontent.com ............ snake (gerada pelo seu workflow)   ║
+║                                                                              ║
+║  REMOVIDOS POR INDISPONIBILIDADE DO HOST:                                     ║
+║   · github-readme-stats.vercel.app ....... 503 DEPLOYMENT_PAUSED              ║
+║   · github-profile-trophy.vercel.app ..... 402 DEPLOYMENT_DISABLED            ║
+║  Os trechos originais estão preservados em comentários, marcados com          ║
+║  "RESTAURAR SE VOLTAR AO AR".                                                 ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -74,8 +89,12 @@
 <td width="42%" valign="top">
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ijosilva&show_icons=true&hide_title=true&hide=issues&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=C9D1D9&icon_color=FF2E63&title_color=00F0FF&border_color=00F0FF&border_radius=12&rank_icon=github" width="100%" alt="card" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ijosilva&theme=github_dark" width="100%" alt="resumo" />
 </div>
+
+<!-- RESTAURAR SE VOLTAR AO AR:
+<img src="https://github-readme-stats.vercel.app/api?username=ijosilva&show_icons=true&hide_title=true&hide=issues&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=C9D1D9&icon_color=FF2E63&title_color=00F0FF&border_color=00F0FF&border_radius=12&rank_icon=github" width="100%" alt="card" />
+-->
 
 </td>
 </tr>
@@ -161,25 +180,53 @@
 
 ## <img src="https://img.shields.io/badge/04-00F0FF?style=flat-square&labelColor=0D1117" /> `PROJETOS.db`
 
-<div align="center">
-
-<a href="https://github.com/ijosilva/saulon">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ijosilva&repo=saulon&bg_color=0D1117&text_color=C9D1D9&icon_color=00F0FF&title_color=00F0FF&border_color=00F0FF&border_radius=12" width="52%" alt="saulon" />
-</a>
-
 <!--
-▼ QUANDO CRIAR NOVOS REPOSITÓRIOS, DESCOMENTE E TROQUE "NOME-DO-REPO" ▼
-
-<a href="https://github.com/ijosilva/NOME-DO-REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ijosilva&repo=NOME-DO-REPO&bg_color=0D1117&text_color=C9D1D9&icon_color=FF2E63&title_color=FF2E63&border_color=FF2E63&border_radius=12" width="52%" alt="projeto" />
-</a>
-
-<a href="https://github.com/ijosilva/NOME-DO-REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ijosilva&repo=NOME-DO-REPO&bg_color=0D1117&text_color=C9D1D9&icon_color=7B2CBF&title_color=7B2CBF&border_color=7B2CBF&border_radius=12" width="52%" alt="projeto" />
-</a>
+Cards montados manualmente com shields.io — não dependem do github-readme-stats.
+Para adicionar um projeto, copie o bloco <td>...</td> e troque "saulon" pelo nome do repo.
 -->
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<h3>🧩 saulon</h3>
+
+<a href="https://github.com/ijosilva/saulon">
+<img src="https://img.shields.io/badge/ABRIR_REPOSIT%C3%93RIO-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="abrir" />
+</a>
+
 <br><br>
+
+<img src="https://img.shields.io/github/stars/ijosilva/saulon?style=flat-square&label=stars&color=00F0FF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/commit-activity/t/ijosilva/saulon?style=flat-square&label=commits&color=FF2E63&labelColor=0D1117" />
+<br>
+<img src="https://img.shields.io/github/last-commit/ijosilva/saulon?style=flat-square&label=%C3%BAltimo%20commit&color=7B2CBF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/repo-size/ijosilva/saulon?style=flat-square&label=tamanho&color=00F0FF&labelColor=0D1117" />
+
+<br><br>
+
+<sub><i>Descrição do projeto — edite esta linha.</i></sub>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<h3>➕ próximo projeto</h3>
+
+<a href="https://github.com/new">
+<img src="https://img.shields.io/badge/SLOT_DISPON%C3%8DVEL-0D1117?style=for-the-badge&logo=github&logoColor=7B2CBF" alt="slot" />
+</a>
+
+<br><br>
+
+<sub><i>Duplique o bloco ao lado e troque o nome do repositório.</i></sub>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <a href="https://github.com/ijosilva?tab=repositories">
 <img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSIT%C3%93RIOS-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="todos os repos" />
@@ -217,8 +264,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ijosilva&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=C9D1D9&icon_color=FF2E63&title_color=00F0FF&border_color=00F0FF&border_radius=12&rank_icon=percentile" height="180" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijosilva&layout=compact&langs_count=8&bg_color=0D1117&text_color=C9D1D9&title_color=00F0FF&border_color=00F0FF&border_radius=12" height="180" alt="linguagens" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ijosilva&theme=github_dark" width="100%" alt="perfil" />
 
 <br><br>
 
@@ -239,27 +285,32 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ijosilva&theme=github_dark" width="100%" alt="commits por linguagem" />
 </td>
 </tr>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ijosilva&theme=github_dark" width="100%" alt="resumo" />
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ijosilva&theme=github_dark&utcOffset=-3" width="100%" alt="horário produtivo" />
-</td>
-</tr>
 </table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ijosilva&theme=github_dark&utcOffset=-3" width="60%" alt="horário produtivo" />
+
+<!-- RESTAURAR SE VOLTAR AO AR:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijosilva&layout=compact&langs_count=8&bg_color=0D1117&text_color=C9D1D9&title_color=00F0FF&border_color=00F0FF&border_radius=12" height="180" alt="linguagens" />
+-->
 
 </div>
 
-<!-- ══════════════════════ TROFÉUS ══════════════════════ -->
+<!-- ══════════════════════ MÉTRICAS ══════════════════════ -->
 
-## <img src="https://img.shields.io/badge/07-00F0FF?style=flat-square&labelColor=0D1117" /> `CONQUISTAS.dat`
+## <img src="https://img.shields.io/badge/07-00F0FF?style=flat-square&labelColor=0D1117" /> `METRICAS.sys`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ijosilva&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="troféus" />
+<img src="https://img.shields.io/github/followers/ijosilva?style=for-the-badge&label=SEGUIDORES&color=00F0FF&labelColor=0D1117&logo=github&logoColor=00F0FF" />
+<img src="https://img.shields.io/github/stars/ijosilva/saulon?style=for-the-badge&label=STARS&color=FF2E63&labelColor=0D1117" />
+<img src="https://img.shields.io/github/commit-activity/t/ijosilva/saulon?style=for-the-badge&label=COMMITS&color=7B2CBF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/created-at/ijosilva/saulon?style=for-the-badge&label=DESDE&color=00F0FF&labelColor=0D1117" />
 
 </div>
+
+<!-- RESTAURAR SE VOLTAR AO AR (seção de troféus):
+<img src="https://github-profile-trophy.vercel.app/?username=ijosilva&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="troféus" />
+-->
 
 <!-- ══════════════════════ SNAKE ══════════════════════ -->
 
